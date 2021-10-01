@@ -1,0 +1,2 @@
+Predict the weight based on gender and height  
+linearregression
