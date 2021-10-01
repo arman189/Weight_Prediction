@@ -18,5 +18,8 @@ Weight Prediction is a model which predicts weight based on their height and the
 
 **OUTPUT**
 
+![output](https://user-images.githubusercontent.com/70680425/135616999-02132371-c49f-4fd3-8269-040b1bd568b7.png)
+
+
 
 
